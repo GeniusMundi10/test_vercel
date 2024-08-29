@@ -9,6 +9,7 @@
     "react-scripts": "4.0.3"
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.16.0",
     "@babel/core": "^7.16.0",
     "@babel/preset-env": "^7.16.0",
     "@babel/preset-react": "^7.16.0",
