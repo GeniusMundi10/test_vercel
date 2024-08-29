@@ -8,6 +8,11 @@
     "lucide-react": "^0.263.1",
     "react-scripts": "4.0.3"
   },
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "@babel/preset-react": "^7.12.1"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
